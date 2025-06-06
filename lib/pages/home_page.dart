@@ -81,7 +81,7 @@ class _HomePageState extends State<HomePage> {
                   TitleText(
                     color: Colors.grey.shade700,
                     fontSize: 18,
-                    text: "Latest products",
+                    text: "All Products",
                   ),
                   TitleText(
                     color: Colors.grey.shade600,
